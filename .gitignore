@@ -1,0 +1,7 @@
+# MacOS
+.DS_Store
+
+# GitHub Pages
+Gemfile.lock
+.sass-cache/
+_site/

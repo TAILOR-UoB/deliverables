@@ -1,3 +1,5 @@
+[![WP9](https://img.shields.io/badge/webpage-WP9-yellowgreen?style=for-the-badge)](https://tailor-uob.github.io/deliverables)
+
 # TAILOR #
 
 TAILOR is an ICT-48 Network of AI Research Excellence Centers funded by EU Horizon 2020 research and innovation programme GA No 952215. More details can be found at <https://tailor-network.eu/>.
@@ -14,7 +16,7 @@ Collaboration is at the heart of the TAILOR network, and the aim of this work pa
 | D9.2 | AI-driven collaboration tools | V.2 |  |
 | D9.3 | Training platform | Beta |  |
 | D9.4 | Training platform | MOOCs |  |
-| D9.5 | PhD program | Mapping of AI-oriented PhD programmes at TAILOR partners | [report](deliverables/d95) |
+| D9.5 | PhD program | Mapping of AI-oriented PhD programmes at TAILOR partners | [report](https://tailor-uob.github.io/deliverables/deliverables/d95) |
 | D9.6 | PhD program | Proposal for joint TAILOR PhD curriculum |  |
 | D9.7 | Summer Schools | First edition \(Bologna\) |  |
 | D9.8 | Summer Schools | Second edition \(Barcelona\) |  |
