@@ -125,9 +125,10 @@ He is also the lead author of a collection of online interactive training materi
 ## Joining Instructions
 
 The workshop will be held online via Zoom.
-Please follow the instructions below to participate.
+Please follow the link below to join.
 
-> TBC
+> **URL:** <https://bristol-ac-uk.zoom.us/s/95445047727>  
+> **Passcode:** 569507
 
 ## Organisers
 
