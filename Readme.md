@@ -14,10 +14,10 @@ Collaboration is at the heart of the TAILOR network, and the aim of this work pa
 | :--- | :--- | :--- | :--- | :--- |
 | D9.1 | AI-driven collaboration tools | V.1 | M18 | (workshop) [New Ways of Working: Tools for 21C Research](https://tailor-uob.github.io/deliverables/events/2021-09-new-ways-of-working) |
 | D9.2 | AI-driven collaboration tools | V.2 | M36 |  |
-| **D9.3** | **Training platform** | **Beta** | **M12** | (Deliverable report coming soon) |
+| **D9.3** | **Training platform** | **Beta** | **M12** | [You Only Write Thrice](https://kcprbskl.com/you-only-write-thrice/src/yowt.html) \| (Deliverable report coming soon) |
 | D9.4 | Training platform | MOOCs | M36 |  |
 | **D9.5** | **PhD program** | **Mapping of AI-oriented PhD programmes at TAILOR partners** | **M9** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/06/D9.5-Mapping-of-AI-oriented-PhD-programmes.pdf) \| [Markdown](https://tailor-uob.github.io/deliverables/deliverables/d95) |
 | D9.6 | PhD program | Proposal for joint TAILOR PhD curriculum | M18 |  |
-| **D9.7** | **Summer Schools** | **First edition \(Bologna\)** | (M8) **M13** | [programme](https://tailor-network.eu/summer-school-2021/) |
+| **D9.7** | **Summer Schools** | **First edition \(Bologna\)** | (M8) **M13** | [Summer School programme](https://tailor-network.eu/summer-school-2021/) |
 | D9.8 | Summer Schools | Second edition \(Barcelona\) | (M20) |  |
 | D9.9 | Summer Schools | Third edition \(Lancaster\) | (M32) |  |
