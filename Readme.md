@@ -10,14 +10,14 @@ Collaboration is at the heart of the TAILOR network, and the aim of this work pa
 
 # Deliverables #
 
-| No. | Deliverable Name | Deliverable Stage | URL |
-| :--- | :--- | :--- | :--- |
-| D9.1 | AI-driven collaboration tools | V.1 |  |
-| D9.2 | AI-driven collaboration tools | V.2 |  |
-| D9.3 | Training platform | Beta |  |
-| D9.4 | Training platform | MOOCs |  |
-| D9.5 | PhD program | Mapping of AI-oriented PhD programmes at TAILOR partners | [report](https://tailor-uob.github.io/deliverables/deliverables/d95) |
-| D9.6 | PhD program | Proposal for joint TAILOR PhD curriculum |  |
-| D9.7 | Summer Schools | First edition \(Bologna\) |  |
-| D9.8 | Summer Schools | Second edition \(Barcelona\) |  |
-| D9.9 | Summer Schools | Third edition \(Lancaster\) |  |
+| No. | Deliverable Name | Deliverable Stage | Month | URL |
+| :--- | :--- | :--- | :--- | :--- |
+| D9.1 | AI-driven collaboration tools | V.1 | M18 |  |
+| D9.2 | AI-driven collaboration tools | V.2 | M36 |  |
+| **D9.3** | **Training platform** | **Beta** | **M12** |  |
+| D9.4 | Training platform | MOOCs | M36 |  |
+| **D9.5** | **PhD program** | **Mapping of AI-oriented PhD programmes at TAILOR partners** | **M9** | [report](https://tailor-uob.github.io/deliverables/deliverables/d95) |
+| D9.6 | PhD program | Proposal for joint TAILOR PhD curriculum | M18 |  |
+| **D9.7** | **Summer Schools** | **First edition \(Bologna\)** | M8->**M13** |  |
+| D9.8 | Summer Schools | Second edition \(Barcelona\) | (M20) |  |
+| D9.9 | Summer Schools | Third edition \(Lancaster\) | (M32) |  |
