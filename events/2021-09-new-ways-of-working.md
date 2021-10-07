@@ -4,6 +4,9 @@ description: A workshop for forward-looking AI researchers who believe technolog
 
 # New Ways of Working: Tools for 21C Research
 
+> ⚠️ **Thank you for your interest in the event.
+> The recording of this workshop will be published soon.** ⚠️
+
 > This workshop will provide a space for the AI community to share and discuss
 > innovative, non-standard ways of working and custom workflows that go beyond
 > just using distinct tools, or integrate such tools in an ingenious way. For
