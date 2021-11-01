@@ -4,8 +4,7 @@ description: A workshop for forward-looking AI researchers who believe technolog
 
 # New Ways of Working: Tools for 21C Research
 
-> ⚠️ **Thank you for your interest in the event.
-> The recording of this workshop will be published soon.** ⚠️
+[![Recording](https://img.shields.io/badge/YouTube-View-red?style=for-the-badge&logo=youtube)](https://youtu.be/ikKbLB5B6MM)
 
 > This workshop will provide a space for the AI community to share and discuss
 > innovative, non-standard ways of working and custom workflows that go beyond
@@ -14,12 +13,16 @@ description: A workshop for forward-looking AI researchers who believe technolog
 > figure generation, composition of experimental tables, event planning, email
 > filtering (and email alternatives), etc.
 
+📺 **You can view a summary and the recording of the workshop toward the bottom of this page.
+Alternatively, follow the YouTube link placed at the top of this page.** 📺
+
 [TAILOR] -- Trustworthy AI through Integrating Learning, Optimisation and Reasoning -- is a network of over 54 partners across Europe, spanning universities and companies interested in pushing the boundaries of artificial intelligence research.
 A part of this effort (Workpackage 9, in particular) is dedicated to identifying and disseminating technologies and workflows to streamline academic tasks.
 For example, we've been working on a platform to generate (interactive) slides, computational notebooks and online articles from a single markdown source -- see our ICLR 2021 [workshop paper] and its accompanying [online exhibit] for more details.
 To understand the broader need for novel, technology-supported (possibly AI-enabled) tools within academic and research-oriented circles, we are organising this workshop for [TAILOR] members and the broader AI community to present their own bespoke workflows, signal what is needed but not yet available, or simply participate in the discussion.
 If you are a forward-looking AI researcher who believes technology should adapt to research practices rather than stand in the way of innovation, we want to hear from you!
 In particular, the workshop aims to explore demonstrations of custom approaches to:
+
 * integrating and automating various stages of paper writing;
 * managing experiments;
 * managing and integrating source code associated with academic outputs;
@@ -125,13 +128,18 @@ He is also the lead author of a collection of online interactive training materi
 
 **Outline:** Developing, disseminating and adapting tools for 21st-century research.
 
-## Joining Instructions
+## Workshop Summary and Recording
 
-The workshop will be held online via Zoom.
-Please follow the link below to join.
+This workshop discussed modern tools that may help researchers to do their job more effectively.
+It covered a range of workflows including online interactive programming language environments, taxonomy and ontology development toolkits, online collaborative machine learning platforms, and novel (scientific) publishing paradigms.
+In particular, the presenters discussed the following tools and resources:
 
-> **URL:** <https://bristol-ac-uk.zoom.us/s/95445047727>  
-> **Passcode:** 569507
+* [SWISH] for [SWI Prolog] and [CPLINT];
+* [SONNET];
+* [OpenML]; and
+* [You Only Write Thrice][online exhibit].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ikKbLB5B6MM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Organisers
 
@@ -152,3 +160,7 @@ University of Bristol
 [reveal.js]: https://revealjs.com/
 [generate slides]: https://so-cool.github.io/you-only-write-thrice/
 [RISE]: https://rise.readthedocs.io/en/stable/
+[SWISH]: https://swish.swi-prolog.org/
+[SWI Prolog]: https://www.swi-prolog.org/
+[SONNET]: https://appl-ai-tno.nl/projects/sonnet/
+[OpenML]: https://www.openml.org/

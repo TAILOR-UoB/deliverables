@@ -1,5 +1,3 @@
-[![WP9](https://img.shields.io/badge/webpage-WP9-yellowgreen?style=for-the-badge)](https://tailor-uob.github.io/deliverables)
-
 # TAILOR #
 
 TAILOR is an ICT-48 Network of AI Research Excellence Centers funded by EU Horizon 2020 research and innovation programme GA No 952215. More details can be found at <https://tailor-network.eu/>.
@@ -12,12 +10,12 @@ Collaboration is at the heart of the TAILOR network, and the aim of this work pa
 
 | No. | Deliverable Name | Deliverable Stage | Month | Further info |
 | :--- | :--- | :--- | :--- | :--- |
-| D9.1 | AI-driven collaboration tools | V.1 | M18 | (workshop) [New Ways of Working: Tools for 21C Research](https://tailor-uob.github.io/deliverables/events/2021-09-new-ways-of-working) |
+| D9.1 | AI-driven collaboration tools | V.1 | M18 | [New Ways of Working: Tools for 21C Research](events/2021-09-new-ways-of-working) (workshop) |
 | D9.2 | AI-driven collaboration tools | V.2 | M36 |  |
-| **D9.3** | **Training platform** | **Beta** | **M12** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/09/D9.3-Training-Platform-Beta-Report-ver.-1.0.pdf) <br> Paper & code: [You Only Write Thrice](https://kcprbskl.com/you-only-write-thrice/src/yowt.html) |
+| **D9.3** | **Training platform** | **Beta** | **M12** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/09/D9.3-Training-Platform-Beta-Report-ver.-1.0.pdf) <br> Paper \& code: [You Only Write Thrice](https://so-cool.github.io/you-only-write-thrice/) |
 | D9.4 | Training platform | MOOCs | M36 |  |
-| **D9.5** | **PhD program** | **Mapping of AI-oriented PhD programmes at TAILOR partners** | **M9** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/06/D9.5-Mapping-of-AI-oriented-PhD-programmes.pdf) \| [Markdown](https://tailor-uob.github.io/deliverables/deliverables/d95) |
+| **D9.5** | **PhD program** | **Mapping of AI-oriented PhD programmes at TAILOR partners** | **M9** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/06/D9.5-Mapping-of-AI-oriented-PhD-programmes.pdf) \| [Markdown](deliverables/d95) |
 | D9.6 | PhD program | Proposal for joint TAILOR PhD curriculum | M18 |  |
-| **D9.7** | **Summer Schools** | **First edition \(Bologna\)** | (M8) **M13** | [Summer School programme](https://tailor-network.eu/summer-school-2021/) |
+| **D9.7** | **Summer Schools** | **First edition \(Bologna\)** | ~~M8~~ **M13** | [Summer School programme](https://tailor-network.eu/summer-school-2021/) |
 | D9.8 | Summer Schools | Second edition \(Barcelona\) | (M20) |  |
 | D9.9 | Summer Schools | Third edition \(Lancaster\) | (M32) |  |
