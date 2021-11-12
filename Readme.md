@@ -18,7 +18,7 @@ You can read about Workpackage 9 tasks and deliverables progress on our dedicate
 | :--- | :--- | :--- | :--- | :--- |
 | D9.1 | AI-driven collaboration tools | V.1 | M18 | [New Ways of Working: Tools for 21C Research](https://tailor-uob.github.io/deliverables/events/2021-09-new-ways-of-working) (workshop) |
 | D9.2 | AI-driven collaboration tools | V.2 | M36 |  |
-| **D9.3** | **Training platform** | **Beta** | **M12** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/09/D9.3-Training-Platform-Beta-Report-ver.-1.0.pdf) <br> Paper \& code: [You Only Write Thrice](https://so-cool.github.io/you-only-write-thrice/) \| [Markdown](https://tailor-uob.github.io/deliverables/deliverables/d93) |
+| **D9.3** | **Training platform** | **Beta** | **M12** | Deliverable report: PDF [v1.1](https://tailor-network.eu/wp-content/uploads/2021/11/Extended-Deliverable-9.3-Report-v1.1.pdf), [v1.0](https://tailor-network.eu/wp-content/uploads/2021/09/D9.3-Training-Platform-Beta-Report-ver.-1.0.pdf) \| [Markdown](https://tailor-uob.github.io/deliverables/deliverables/d93) <br> Paper \& code: [You Only Write Thrice](https://so-cool.github.io/you-only-write-thrice/) |
 | D9.4 | Training platform | MOOCs | M36 |  |
 | **D9.5** | **PhD program** | **Mapping of AI-oriented PhD programmes at TAILOR partners** | **M9** | Deliverable report: [PDF](https://tailor-network.eu/wp-content/uploads/2021/06/D9.5-Mapping-of-AI-oriented-PhD-programmes.pdf) \| [Markdown](https://tailor-uob.github.io/deliverables/deliverables/d95) |
 | D9.6 | PhD program | Proposal for joint TAILOR PhD curriculum | M18 |  |
